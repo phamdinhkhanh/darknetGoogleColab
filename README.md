@@ -1,20 +1,12 @@
 
 # This project is cloned from [AlexeyAB](https://github.com/AlexeyAB/darknet) with several customization for trainning on google colab 
 
-To practice, do as following step:
+To practice, you can do as direction at [Bài 26 - Huấn luyện YOLO darknet trên google colab](https://phamdinhkhanh.github.io/2020/03/10/DarknetGoogleColab.html)
 
-* **Step 1:**
-
-Download and this git project and upload in the given Google Drive folder.
-
-* **Step 2:**
-
-Open [darknetGoogleColab.ipynb](https://github.com/phamdinhkhanh/darknetGoogleColab/blob/master/darknetGoogleColab.ipynb) file and run start from item **3.3. Mount google drive**.
-
-* **Step 3:**
+Or another simple way opens [darknetGoogleColab.ipynb](https://colab.research.google.com/drive/1G3AM3CHsMb0iwuBDR-j5rimr_WX2KHc2) file and start run from item **3.2. Enable GPU trên google colab**.
 
 After you understand how does darknet work. You could train model on your own data and reserve it for your private task.
 
 # Link to Khanh Blog
 
-the Direction was at [Bài 26 - Huấn luyện YOLO darknet trên google colab](https://phamdinhkhanh.github.io/2020/03/10/DarknetGoogleColab.html)
+Before practice, i recommend you understand YOLO algorithm at [Bài 25 - YOLO You Only Look Once](https://phamdinhkhanh.github.io/2020/03/09/DarknetAlgorithm.html)
