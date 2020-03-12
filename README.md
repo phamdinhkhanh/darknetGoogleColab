@@ -1,5 +1,5 @@
 
-# This project is cloned from [AlexeyAB]((https://github.com/AlexeyAB/darknet) with several customization for trainning on google colab 
+# This project is cloned from [AlexeyAB](https://github.com/AlexeyAB/darknet) with several customization for trainning on google colab 
 
 To practice, do as following step:
 
