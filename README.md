@@ -17,4 +17,4 @@ After you understand how does darknet work. You could train model on your own da
 
 # Link to Khanh Blog
 
-the Direction was at ![Bài 26 - Huấn luyện YOLO darknet trên google colab](https://phamdinhkhanh.github.io/2020/03/10/DarknetGoogleColab.html)
+the Direction was at [Bài 26 - Huấn luyện YOLO darknet trên google colab](https://phamdinhkhanh.github.io/2020/03/10/DarknetGoogleColab.html)
